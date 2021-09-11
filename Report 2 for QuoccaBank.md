@@ -1,10 +1,4 @@
-<style>
-@media print {
-    .pagebreak { page-break-after: always; }
-}
-</style>
-
-# COMP6443 Report 2 - Part 1
+# QuoccaBank Report 2
 ![](https://i.imgur.com/AMETBdu.png)
 **Penetration Test Report** - August 08, 2021
 
